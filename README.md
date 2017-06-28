@@ -1,1 +1,1 @@
-# Galactic_Parcel_Service_GH-Pages
+# Galactic Parcel Service web provider
