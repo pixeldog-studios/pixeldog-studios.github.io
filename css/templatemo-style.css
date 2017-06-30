@@ -287,7 +287,7 @@ body {
 
 .project-item .thumb-holder .hover-effect .hover-content {
   position: absolute;
-  top: 0%;
+  top: 150%;
   width: 100%;
 }
 
@@ -427,7 +427,7 @@ footer p {
 
 footer p em {
   font-style: normal;
-  color: #f78b26;
+  color: rgba(0, 113, 137, .9);
 }
 
 
@@ -614,7 +614,7 @@ body.lb-disable-scrolling {
 
   /* Background color behind image.
      This is visible during transitions. */
-  background-color: black;
+  background-color: rgba(0, 113, 137, .9);
 }
 
 .lb-outerContainer:after {
