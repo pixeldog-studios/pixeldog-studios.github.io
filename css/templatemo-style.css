@@ -963,7 +963,7 @@ body.lb-disable-scrolling {
 .owl-theme .owl-dots .active span {
   width: 10px;
   height: 10px;
-  background: hsla(192, 255, 137, 255);
+  background: rgba(0, 113, 137, .9);
   display: block;
   -webkit-backface-visibility: visible;
   transition: opacity .2s ease;
