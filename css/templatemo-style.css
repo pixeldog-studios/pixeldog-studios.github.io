@@ -282,7 +282,7 @@ body {
   width: 100%;
   opacity: 0;
   transition: .3s ease;
-  background-color: rgba(249, 139, 38, 0.9);
+  background-color: rgba(0, 113, 137, 0.9);
 }
 
 .project-item .thumb-holder .hover-effect .hover-content {
