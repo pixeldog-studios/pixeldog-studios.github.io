@@ -70,11 +70,11 @@
 
 .VerticalTab.tabs_ver_6 .resp-tabs-list .resp-tab-active {
 	margin: 10px 0px!important;
-	color: #f78b26;
+	color: rgba(0, 113, 137, .9);
 	border: none!important;
 }
 .VerticalTab.tabs_ver_6 .resp-tabs-list li:hover {
-	color: #f78b26;
+	color: rgba(0, 113, 137, .9);
     -moz-transition: all 0.2s linear;
     -o-transition: all 0.2s linear;
     -webkit-transition: all 0.2s linear;
