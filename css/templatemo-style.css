@@ -184,8 +184,8 @@ body {
     -o-transition: all 0.2s linear;
     -webkit-transition: all 0.2s linear;
     transition: all 0.2s linear;
-    border-color: #f78b26;
-    color: #f78b26;
+    border-color: rgba(0, 113, 137, .9);
+    color: rgba(0, 113, 137, .9);
     text-decoration: none;
   }
 
